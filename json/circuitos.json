@@ -12,7 +12,7 @@
             "leftCurves": 6,
             "topSpeed": "338.5km/h",
             "record": "1'28.700",
-            "image": "image/lusail.svg",
+            "image": "images/lusail.svg",
             "information": "The Lusail International Circuit in Qatar hosted a MotoGP™ World Championship Grand Prix for the first time in 2004. Following the signing of an agreement in June 2003 to stage a Grand Prix in the Middle East, work on the chosen site began in October of that year. The foundation stone was laid in December, in the presence of past and present world champions such as Mick Doohan and Valentino Rossi."
         },
         {
@@ -26,7 +26,7 @@
             "leftCurves": 6,
             "topSpeed": "352.9km/h",
             "record": "1'37.226",
-            "image": "image/portimao.svg",
+            "image": "images/portimao.svg",
             "information": "Set in the beautiful surroundings of Portugal’s Algarve, the 100,000-capacity Autodromo International do Algarve, more popularly known as Portimao after the port town half an hour away, opened on 2 November 2008. The circuit was debuted by WorldSBK when the final round of that season was held in Portugal. It is much more than just a racing circuit, though. The Algarve Motorsports Park is a state-of-the-art complex featuring a stunning race track, a karting track, an off-road park, a hotel, an apartment complex, a technology park and a sports complex. In terms of circuit layout, the Autodromo International do Algarve features 15 corners – 9 right-handers and 6 left-handers. The undulation at Portimao is incredible and the main straight will allow the MotoGP™ riders to test the potential of their machines before tackling a unique descent at the iconic Turn 1."
         },
         {
@@ -40,7 +40,7 @@
             "leftCurves": 11,
             "topSpeed": "356.4km/h",
             "record": "2'00.864",
-            "image": "image/americas.svg",
+            "image": "images/americas.svg",
             "information": "The Circuit of the Americas is the first circuit in the United States designed specifically for Grand Prix racing and is located near Austin, Texas. It has a length of 5.513 kilometres and a capacity of 120,000 spectators. Construction on a 400-hectare site was completed in 2012 and MotoGP™ visited it for the first time in 2013. One of its main features is the long climb, with a gradient of 41 metres, which ends the main straight and is followed by a sharp left-hand curve. The circuit is one of the most varied and combines fast straights, hairpins and various sections inspired by the most famous circuits. The layout was designed by the renowned German designer Hermann Tilke. The track runs counter-clockwise, with a total of twenty turns per lap, nine to the right and eleven to the left."
         },
         {
@@ -54,7 +54,7 @@
             "leftCurves": 5,
             "topSpeed": "300.8km/h",
             "record": "1'36.025",
-            "image": "image/jerez.svg",
+            "image": "images/jerez.svg",
             "information": "Built in 1986, the Jerez circuit hosted its first Grand Prix a year later. The Spanish Grand Prix held on the Jerez circuit is one of the most popular and multitudinous events in the MotoGP™ Championship and the main reference point for a city that passionately follows motorcycle racing."
         },
         {
@@ -68,7 +68,7 @@
             "leftCurves": 5,
             "topSpeed": "325.8km/h",
             "record": "1'29.919",
-            "image": "image/leMans.svg",
+            "image": "images/leMans.svg",
             "information": "The Bugatti circuit is located 5 kilometres south of the city of Le Mans and 200 kilometres south-west of Paris. Built in 1965 around the existing 24 Hours of Le Mans track, this legendary circuit has been the setting for Grand Prix races since the late 1960s. The serious accident suffered by driver Alberto Puig in 1995 meant that Le Mans was removed from the World Championship calendar until the 2000 season, while various safety improvements were made to the track." 
         },
         {
@@ -82,7 +82,7 @@
             "leftCurves": 6,
             "topSpeed": "356.4km/h",
             "record": "1'38.190",
-            "image": "image/catalunya.svg",
+            "image": "images/catalunya.svg",
             "information": "With a capacity for more than 104,000 spectators, the Circuit de Catalunya is considered one of the best designed circuits of the latest generation."
         },
         {
@@ -96,7 +96,7 @@
             "leftCurves": 6,
             "topSpeed": "366.1km/h",
             "record": "1'44.504",
-            "image": "image/mugello.svg",
+            "image": "images/mugello.svg",
             "information": "Located in a valley in the splendid Tuscan countryside, 30 kilometres north-east of Florence, Mugello is a modern circuit with a prestigious infrastructure. Owned by Ferrari since 1988, the 5.245-kilometre track has been entirely renovated to meet the most demanding criteria set in the world of motorsport."
         },
         {
@@ -110,7 +110,7 @@
             "leftCurves": 6,
             "topSpeed": "319.8km/h",
             "record": "1'30.540",
-            "image": "image/assen.svg",
+            "image": "images/assen.svg",
             "information": "Assen is the only circuit to have hosted a World Championship race every year since its creation in 1949. The Assen circuit was built to host the Dutch TT motorcycle Grand Prix in 1955. Before then, the race was held on public roads. The track is entirely surrounded by green hills on which the grandstands are located, with a capacity for 64,500 people. "
         },
         {
@@ -124,7 +124,7 @@
             "leftCurves": 10,
             "topSpeed": "306.8km/h",
             "record": "1'19.423",
-            "image": "image/sachsenring.svg",
+            "image": "images/sachsenring.svg",
             "information": "Sachsenring is another venue with a long sporting tradition: car and motorcycle races on the roads around the city of Chemnitz date back to 1920 and continued until 1990. Holding these events became increasingly difficult due to the population density and safety conditions for the drivers, so in 1996 it was decided to build the Sachsenring circuit."
         },
         {
@@ -138,7 +138,7 @@
             "leftCurves": 8,
             "topSpeed": "340.6km/h",
             "record": "1'57.309",
-            "image": "image/silverstone.svg",
+            "image": "images/silverstone.svg",
             "information": "In its more than 60-year history, Silverstone has built a reputation as one of the premier venues dedicated to motorsport. Internationally recognised as the host of world-class events, Silverstone has undergone a complete modernisation in recent years. A multi-million pound investment, the first phase of which was completed in 2010, has made it one of the fastest tracks on the MotoGP™ calendar as well as one of the most attractive for spectators. "
         }
     ]

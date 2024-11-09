@@ -1,0 +1,16 @@
+.ImgContainer{
+background-color: red;
+height: 200px;
+width: 200px;
+position: relative;
+}
+.card-img-top{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: relative;
+}
+.card-body{
+
+    background-color: aqua;
+}
