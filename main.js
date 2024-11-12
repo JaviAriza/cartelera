@@ -16,7 +16,7 @@ fetchCircuitsJson().then(circuits => {
         const card = document.createElement('div');
         card.className = 'col';
         card.innerHTML = `
-    <div class="card h-100 shadow-sm" role="button" style="margin-top: 20px;">
+    <div class="card h-100 shadow-sm" role="button";">
         <div class="ImgContainer overflow-hidden" style="height: 400px; margin-left: 10px; margin-right: 10px;">
             <img src="${image}" class="card-img-top w-100 h-100 img-cover" alt="${name}">
         </div>
