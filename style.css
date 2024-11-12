@@ -17,27 +17,21 @@
     width: 150%;
     margin-left: -30px !important;
 }
-
 .card:hover {
     transform: scale(1.03);  
 }
-
 body {
     font-family: 'Gugi', sans-serif !important;
     background-color: #060411;
 }
-
 .gugi-regular {
     font-family: 'Gugi', sans-serif !important;
     font-weight: 400;
     font-style: normal;
 }
-
-
 h1, h2, h3,h5, p {
     font-family: 'Gugi', sans-serif !important;
 }
-
 .mundo {
     width: 160px; 
     height: 160px; 
@@ -45,7 +39,6 @@ h1, h2, h3,h5, p {
     margin-top: -30px;
     margin-left: -9px;
 }
-
 .bandera {
     width: 200px; 
     height: 200px; 
@@ -54,7 +47,6 @@ h1, h2, h3,h5, p {
     margin-top: -45px;
 
 }
-
 .pedrosa{
     width: 200px; 
     height: 200px; 
@@ -82,19 +74,15 @@ h1, h2, h3,h5, p {
     background-color: #9baee4 !important;
     /* #95bcff */
 }
-
-
 .text-center {
     font-size: 90px;
     margin-top: 15px;
     text-align: center;  
     margin-left: 17%;  
     -webkit-text-stroke: 2px black; /* Define el ancho y color del borde */
-    color: #db0012; /* Color de las letras */
-    
+    color: #db0012; /* Color de las letras */   
 }
 .w3-sidebar{
-
     overflow: hidden;
     background-color: #060411 !important;
 }

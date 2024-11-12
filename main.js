@@ -16,7 +16,6 @@ fetchCircuitsJson().then(circuits => {
         const card = document.createElement('div');
         card.className = 'col';
         card.innerHTML = `
-     
     <div class="card h-100 shadow-sm" role="button" style="margin-top: 20px;">
         <div class="ImgContainer overflow-hidden" style="height: 400px; margin-left: 10px; margin-right: 10px;">
             <img src="${image}" class="card-img-top w-100 h-100 img-cover" alt="${name}">
@@ -70,6 +69,7 @@ icondate.style.width = '25px';
 icondate.style.height = '25px';
 
 // Evento para mostrar el modal con la información completa de la tarjeta
+// Usar innerHTML para insertar los iconos 
 card.querySelector('.card').addEventListener('click', () => {
     document.getElementById('circuitModalLabel').textContent = name;
     document.getElementById('modalImage').src = image;
@@ -77,7 +77,6 @@ card.querySelector('.card').addEventListener('click', () => {
     document.getElementById('modalTotalLength').innerHTML = `Total length: ${totalLength} ${iconDistance.outerHTML}`;
     document.getElementById('modalTrackWidth').innerHTML = `Track width: ${trackWidth} ${iconWidth.outerHTML}`;
     document.getElementById('modalLongestStraight').textContent = `Longest straight: ${longestStraight}`;
-    // Usar innerHTML para insertar el icono y los textos de las curvas
     document.getElementById('modalCurves').innerHTML = `Curves: To rigth ${iconR.outerHTML}: ${rightCurves} | To left ${iconL.outerHTML}: ${leftCurves}`;
     document.getElementById('modalTopSpeed').innerHTML = `Top speed: ${topSpeed} ${iconKMH.outerHTML}`;
     document.getElementById('modalRecord').innerHTML = `Record : ${record} ${iconCronometro.outerHTML}`;
@@ -87,7 +86,6 @@ card.querySelector('.card').addEventListener('click', () => {
     const modal = new bootstrap.Modal(document.getElementById('circuitModal'));
     modal.show();
 });
-
 // Añadir la tarjeta a la sección
 circuitSection.appendChild(card);
     });
